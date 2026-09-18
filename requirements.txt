@@ -1,0 +1,8 @@
+# Core runtime dependencies
+streamlit==1.64.0
+requests==2.32.3
+pandas==2.2.3
+scikit-learn==1.5.2
+
+# Development/test dependencies
+pytest==8.3.3
